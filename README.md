@@ -1,16 +1,51 @@
-## Hi there 👋
-author :- sanjyot 
-<!--
-**sanjyotdhamal/sanjyotdhamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Sanjyot Dhamal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Computer Engineering Undergraduate · Full Stack Developer · AI & ML Enthusiast · Athlete | Rower*
+
+📍 Pune, India
+
+</div>
+
+---
+
+### About me
+
+- 🎓 Pursuing **Computer Engineering** — learning every single day
+- 🤖 Passionate about **AI & ML** and what it can build
+- 🌐 Enjoy crafting full stack apps from idea to deployment
+- ⚡ Athlete off-screen — discipline on the field carries into the code
+
+---
+
+### stack
+
+```
+Languages  →   Python · C · SQL · R
+Frontend   →   HTML · CSS · React.js
+Backend    →   Node.js · MongoDB · Flask
+AI/ML    →   TensorFlow · Scikit-learn · Pandas · NumPy
+Tools      →   Git · Google Collab · VS Code · Tableau
+```
+
+---
+
+### currently
+
+- 🔨 Building real-world projects to grow my skills
+- 📖 Diving deeper into AI/ML concepts
+- 🤝 Open to collaborations, contributions & cool ideas
+
+---
+
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=netlify)](https://sanjyot-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjyot-dhamal-2b6205289/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/sanjyotdhamal)
+
+*"build, break, learn, repeat."*
+
+</div>
