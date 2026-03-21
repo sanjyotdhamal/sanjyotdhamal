@@ -10,7 +10,7 @@
 
 ---
 
-### About me
+### About Me
 
 - 🎓 Pursuing **Computer Engineering** — learning every single day
 - 🤖 Passionate about **AI & ML** and what it can build
@@ -19,7 +19,7 @@
 
 ---
 
-### stack
+### Stack
 
 ```
 Languages  →   Python · C · SQL · R
@@ -31,7 +31,7 @@ Tools      →   Git · Google Collab · VS Code · Tableau
 
 ---
 
-### currently
+### Currently
 
 - 🔨 Building real-world projects to grow my skills
 - 📖 Diving deeper into AI/ML concepts
