@@ -2,7 +2,7 @@
 
 # Sanjyot Dhamal
 
-*Computer Engineering Undergraduate · Full Stack Developer · AI & ML Enthusiast · Athlete | Rower*
+*Computer Engineering Undergraduate · Full Stack Developer · AI & ML Enthusiast · Student Athlete*
 
 📍 Pune, India
 
