@@ -22,11 +22,11 @@
 ### Stack
 
 ```
-Languages  →   Python · C · SQL · R
+Languages  →   Python · Java · SQL · R
 Frontend   →   HTML · CSS · React.js
 Backend    →   Node.js · MongoDB · Flask
 AI/ML    →   TensorFlow · Scikit-learn · Pandas · NumPy
-Tools      →   Git · Google Collab · VS Code · Tableau
+Tools      →   Git · Google Collab · VS Code · Power BI · Tableau
 ```
 
 ---
